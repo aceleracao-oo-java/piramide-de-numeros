@@ -9,4 +9,3 @@ Crie uma pirâmide de números, onde você deve imprimir em cada linha separada 
 4444  
 55555  
 
-# Pir-mide-de-n-meros
